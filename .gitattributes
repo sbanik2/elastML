@@ -1,0 +1,2 @@
+elastML/Bulk_models/* filter=lfs diff=lfs merge=lfs -text
+elastML/Shear_models/* filter=lfs diff=lfs merge=lfs -text
