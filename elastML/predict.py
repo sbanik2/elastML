@@ -56,11 +56,11 @@ coss_val_parameters_shear = {
 }
 
 
-def model_predict(predict_data, target, prop="Bulk", model_name="LR", print_mae=True):
-    model_path = os.path.join(
-        os.path.dirname(__file__), "{}_models/model_{}".format(prop, model_name)
-    )
-    model = joblib.load(model_path)
+def model_predict(predict_data, target, saved_model , prop="Bulk", model_name="LR", print_mae=True):
+    #model_path = os.path.join(
+    #    os.path.dirname(__file__), "{}_models/model_{}".format(prop, model_name)
+    #)
+    model = joblib.load(saved_model)
     if model_name == "GPR":
         target_transform_path = os.path.join(
             os.path.dirname(__file__), "transform/Transform_GPR_{}".format(prop)

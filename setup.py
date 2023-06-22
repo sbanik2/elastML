@@ -34,8 +34,6 @@ setup(
     ],
         
     package_data={
-        'elastML.Bulk_models': [ 'model_*'],
-        'elastML.Shear_models': [ 'model_*'],
         'elastML.transform': [ 'Transform_*',"Imputer"],
         'elastML.mrmr_relevance': [ '*.csv'] 
         
