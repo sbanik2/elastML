@@ -37,10 +37,10 @@
 
 Featurization of crystal structures for the prediction of elastic modulus (Bulk and Shear) using different ML models ([Paper](https://doi.org/10.26434/chemrxiv-2023-07vcr)). The code contains 8 different trained ML models on ~10K materials' project crystal structures, comparing their overall performance. A generalized task-specific feature importance is therefore determined from the feature importance learned by each model. <br/>
 
-<p align="justify">&emsp;&emsp;&emsp;&emsp;F</p>
+<p align="justify">&emsp;&emsp;&emsp;&emsp;</p>
 
 
-<p align="center"> <a href="url"><img src="https://github.com/sbanik2/elastML/blob/main/figs/workflow.png?raw=true" align="center" height="500" width="600" ></a> </p>
+<p align="center"> <a href="url"><img src="https://github.com/sbanik2/elastML/blob/main/figs/workflow.png?raw=true" align="center" height="500" width="700" ></a> </p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
