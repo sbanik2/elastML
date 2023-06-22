@@ -40,7 +40,7 @@ Featurization of crystal structures for the prediction of elastic modulus (Bulk 
 <p align="justify">&emsp;&emsp;&emsp;&emsp;F</p>
 
 
-<p align="center"> <a href="url"><img src="https://github.com/sbanik2/CASTING/blob/main/figs/MCTS.png?raw=true" align="center" height="500" width="600" ></a> </p>
+<p align="center"> <a href="url"><img src="https://github.com/sbanik2/elastML/blob/main/figs/workflow.png?raw=true" align="center" height="500" width="600" ></a> </p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
