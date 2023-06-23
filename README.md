@@ -56,7 +56,7 @@ This package requires:
 
 ```
 conda env create --name elastML
-conda activate CASTING
+conda activate elastML
 git clone https://github.com/sbanik2/elastML.git
 pip install -r requirements.txt
 python setup.py install
