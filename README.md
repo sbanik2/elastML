@@ -19,8 +19,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the code](#running-the-code)
-- [Optimization of Gold nanocluster](#optimization-of-Gold-nanocluster)
-- [Carbon metastable polymorphs](#carbon-metastable-polymorphs)
 - [Citation](#citation)
 - [License](#license)
 
@@ -42,7 +40,7 @@ Featurization of crystal structures for the prediction of elastic modulus (Bulk 
 
 ## Prerequisites
 This package requires:
-- [scipy](https://scipy.org/)
+- [dscribe](https://singroup.github.io/dscribe/latest/)
 - [LAMMPS](https://www.lammps.org/)
 - [pymatgen](https://pymatgen.org/)
 - [pandas](https://pandas.pydata.org/)
