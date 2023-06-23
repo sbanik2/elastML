@@ -55,7 +55,7 @@ This package requires:
 [Install the anaconda package](https://docs.anaconda.com/anaconda/install/). Then, 
 
 ```
-conda env create --name elastML
+conda create --name elastML
 conda activate elastML
 git clone https://github.com/sbanik2/elastML.git
 pip install -r requirements.txt
