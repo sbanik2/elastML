@@ -66,14 +66,14 @@ python setup.py install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Running the code
-The code can be used to generate the feature space as described in the ([Paper](https://doi.org/10.26434/chemrxiv-2023-07vcr)), or the prediction of bulk and shear modulus. To compute the initial feature relevance using mRMR, please refer to the ([notebook](https://github.com/sbanik2/elastML/blob/main/notebooks/mrmr.ipynb)).
+The code can be used to generate the feature space as described in the [Paper](https://doi.org/10.26434/chemrxiv-2023-07vcr), or the prediction of bulk and shear modulus. To compute the initial feature relevance using mRMR, please refer to the [notebook](https://github.com/sbanik2/elastML/blob/main/notebooks/mrmr.ipynb).
 
 To predict either bulk or shear modulus using the trained models, download them from:
 
 ```
 https://doi.org/10.5281/zenodo.8067989
 ```
-n example of predicting the elastic modulus using the trained models can be found in the ([notebook](https://github.com/sbanik2/elastML/blob/main/notebooks/prediction.ipynb)).
+n example of predicting the elastic modulus using the trained models can be found in the [notebook](https://github.com/sbanik2/elastML/blob/main/notebooks/prediction.ipynb).
 
 ## Citation
 ```
