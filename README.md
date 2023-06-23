@@ -41,12 +41,11 @@ Featurization of crystal structures for the prediction of elastic modulus (Bulk 
 ## Prerequisites
 This package requires:
 - [dscribe](https://singroup.github.io/dscribe/latest/)
-- [LAMMPS](https://www.lammps.org/)
+- [matminer](https://matminer.readthedocs.io/en/latest/)
 - [pymatgen](https://pymatgen.org/)
-- [pandas](https://pandas.pydata.org/)
-- [numpy](https://numpy.org/)
-- [networkx](https://networkx.org/)
-- [ase](https://wiki.fysik.dtu.dk/ase/#)
+- [scikit_learn](https://scikit-learn.org/stable/)
+- [mrmr-selection](https://github.com/smazzanti/mrmr)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +55,7 @@ This package requires:
 [Install the anaconda package](https://docs.anaconda.com/anaconda/install/). Then, 
 
 ```
-conda env create --name CASTING
+conda env create --name elastML
 conda activate CASTING
 git clone https://github.com/sbanik2/CASTING.git
 pip install -r requirements.txt
