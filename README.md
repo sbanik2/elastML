@@ -87,7 +87,7 @@ n example of predicting the elastic modulus using the trained models can be foun
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
         
 ## License
-CASTING is distributed under MIT License. See `LICENSE` for details.
+elastML is distributed under MIT License. See `LICENSE` for details.
     
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
