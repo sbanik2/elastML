@@ -66,7 +66,7 @@ python setup.py install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Running the code
-<p align="justify">  The code can be used to generate feature space as depicted in the paper ([Paper](https://doi.org/10.26434/chemrxiv-2023-07vcr)) for the prediction of bulk and shear modulus. To compute the initial feature relevance using mRMR use the notebook   </p>
+<p align="justify">  The code can be used to generate feature space as  described in the ([Paper](https://doi.org/10.26434/chemrxiv-2023-07vcr)), for the prediction of bulk and shear modulus. To compute the initial feature relevance using mRMR use the notebook. </p>
 
 
 ## Citation
