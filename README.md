@@ -80,7 +80,7 @@ To predict either bulk or shear modulus using the trained models, download them 
 ```
 https://doi.org/10.5281/zenodo.8067989
 ```
-n example of predicting the elastic modulus using the trained models can be found in the [notebook](https://github.com/sbanik2/elastML/blob/main/notebooks/prediction.ipynb).
+An example of predicting the elastic modulus using the trained models can be found in the [notebook](https://github.com/sbanik2/elastML/blob/main/notebooks/prediction.ipynb).
 
 ## Citation
 ```
