@@ -2,12 +2,7 @@
 
 <a name="readme-top"></a>
 
-
-![Release][release-shield]
-[![License][license-shield]][license-url]
-![Commit][commit-shield]
 ![Size][size-shield]
-[![Downloads][download-shield]][download-url]
 [![Doi][DOI-shield]][DOI-url]
 
 
@@ -240,13 +235,8 @@ CASTING is distributed under MIT License. See `LICENSE` for details.
 <!--LINKS -->
 
 
-[release-shield]: https://img.shields.io/github/v/release/sbanik2/CASTING
-[license-shield]: https://img.shields.io/github/license/sbanik2/CASTING
-[license-url]: https://github.com/sbanik2/CASTING/blob/main/LICENSE
-[download-shield]: https://static.pepy.tech/badge/casting
-[download-url]: https://pepy.tech/project/casting
-[commit-shield]:https://img.shields.io/github/last-commit/sbanik2/CASTING
-[size-shield]: https://img.shields.io/github/languages/code-size/sbanik2/CASTING
+
+[size-shield]: https://img.shields.io/github/repo-size/sbanik2/elastML
 [DOI-shield]: https://img.shields.io/badge/Paper-8A2BE2
 [DOI-url]: https://doi.org/10.26434/chemrxiv-2023-07vcr
     
