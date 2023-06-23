@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 ![Size][size-shield]
-
+[![notebooks][notebooks-shield]][notebooks-url]
 [![Doi][DOI-shield]][DOI-url]
 
 
@@ -100,5 +100,7 @@ CASTING is distributed under MIT License. See `LICENSE` for details.
 [size-shield]: https://img.shields.io/github/repo-size/sbanik2/elastML
 [DOI-shield]: https://img.shields.io/badge/Paper-8A2BE2
 [DOI-url]: https://doi.org/10.26434/chemrxiv-2023-07vcr
+[notebooks-shield]: https://img.shields.io/badge/notebooks-2ECC71
+[notebooks-url]: https://github.com/sbanik2/elastML/tree/main/notebooks
     
     
